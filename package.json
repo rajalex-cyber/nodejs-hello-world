@@ -11,6 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/fhinkel/nodejs-hello-world.git"
   },
+    "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.3.0",
+    "cross-env": "^7.0.2",
+    "mocha": "^8.0.1",
+    "nodemon": "^2.0.4"
+  },
   "author": "fhinkel",
   "license": "MIT",
   "bugs": {
