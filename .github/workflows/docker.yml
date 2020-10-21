@@ -28,5 +28,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Build the Docker Image
         run: docker build . --file Dockerfile --tag nodetestimg:$(date +%s)
-          echo Add other actions to build,
-          echo test, and deploy your project.
+
