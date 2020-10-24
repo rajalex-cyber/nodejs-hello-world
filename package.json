@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Git Action Docker node example",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajalex-cyber/GitActionNodeEx.git"
+  },
+  "author": "Raj Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajalex-cyber/GitActionNodeEx/issues"
+  },
+  "homepage": "https://github.com/rajalex-cyber/GitActionNodeEx#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0",
+    "request": "^2.88.2"
+  }
+}
